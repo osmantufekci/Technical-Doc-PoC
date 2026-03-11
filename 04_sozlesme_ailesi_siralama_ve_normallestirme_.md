@@ -184,7 +184,7 @@ Bu bölümde, sistemden gelen dağınık sözleşme listelerini müşteriye sunm
 
 Artık hem farklı kaynaklardan sözleşmeleri nasıl getirdiğimizi hem de onları nasıl düzenlediğimizi biliyoruz. Peki, bu düzenlenmiş veriler son kullanıcıya gösterilecek JSON formatına nasıl dönüştürülüyor? Bu "veri dönüştürme" işlemini bir sonraki bölümde ele alacağız.
 
-**Sıradaki Bölüm:** [Yanıt Oluşturucular (Assemblers)](05_yanıt_oluşturucular__assemblers__.md)
+**Sıradaki Bölüm:** [Yanıt Oluşturucular (Assemblers)](05_yanit_olusturucular_assemblers_.md)
 
 ---
 
