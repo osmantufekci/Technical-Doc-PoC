@@ -153,7 +153,7 @@ Artık bir isteğin sistemimize girdiğinde ilk olarak nasıl bir yol ayrımına
 
 Sıradaki bölümde, modern dijital kanallardan gelen isteklerin izlediği yolu, yani `SiebelContractsService`'in sözleşme verilerini bulmak için nasıl bir kaynak zinciri kullandığını keşfedeceğiz.
 
-**Sıradaki Bölüm:** [Sözleşme Veri Kaynağı Zinciri (Siebel Akışı)](02_sözleşme_veri_kaynağı_zinciri__siebel_akışı__.md)
+**Sıradaki Bölüm:** [Sözleşme Veri Kaynağı Zinciri (Siebel Akışı)](02_sozlesme_veri_kaynagi_zinciri__siebel_akisi_.md)
 
 ---
 
