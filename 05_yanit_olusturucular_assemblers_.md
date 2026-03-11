@@ -187,7 +187,7 @@ Bu bölümde, projemizin "sunum katmanı" olan Assembler'ların kritik rolünü 
 
 Artık veriyi nasıl topladığımızı, nasıl sıraladığımızı ve son olarak nasıl kullanıcıya sunulacak hale getirdiğimizi biliyoruz. Assembler'ların eklediği önemli bilgilerden biri de "cayma bedeli" idi. Peki bu hassas bilgi nasıl hesaplanıyor? Bir sonraki bölümde, bu hesaplama için başka bir harici sistemle (CCS) nasıl entegre olduğumuzu inceleyeceğiz.
 
-**Sıradaki Bölüm:** [Cayma Bedeli Hesaplama (CCS Entegrasyonu)](06_cayma_bedeli_hesaplama__ccs_entegrasyonu__.md)
+**Sıradaki Bölüm:** [Cayma Bedeli Hesaplama (CCS Entegrasyonu)](06_cayma_bedeli_hesaplama__ccs_entegrasyonu_.md)
 
 ---
 
