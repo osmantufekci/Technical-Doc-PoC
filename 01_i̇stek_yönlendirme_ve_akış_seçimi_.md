@@ -22,8 +22,8 @@ Bu ayrımı basit bir şema ile gösterebiliriz:
 
 ```mermaid
 graph TD
-    A["Gelen İstek: Sözleşmelerimi Getir"] --> B{Yönlendirici Servis};
-    B -->|Müşteri Eski Sistemde mi?| C["Legacy (CCB) Akışı"];
+    A[Gelen İstek: "Sözleşmelerimi Getir"] --> B{Yönlendirici Servis};
+    B -->|Müşteri Eski Sistemde mi?| C[Legacy (CCB) Akışı];
     B -->|Müşteri Yeni Sistemde mi?| D[Siebel Akışı];
 ```
 

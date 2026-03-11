@@ -3,7 +3,7 @@
 Bu proje, bir müşterinin **mevcut sözleşme bilgilerini** getiren bir servistir. Sistemin en önemli özelliği, gelen isteğin *eski* mi yoksa *yeni* bir müşteriden mi geldiğini anlayarak, isteği doğru iş akışına yönlendirmesidir. Yeni sistemler için, doğru veriyi bulana kadar farklı veri kaynaklarını sırayla dener. Son olarak, ham veriyi alıp üzerine *cayma bedeli* gibi ek bilgiler ekleyerek ve metin şablonlarıyla zenginleştirerek kullanıcıya anlaşılır bir yanıt oluşturur. Servisin davranışları, kod içerisinden değil, **merkezi bir yapılandırma dosyası** üzerinden kolayca yönetilebilir.
 
 
-**Source Repository:** Local
+**Source Repository:** [None](None)
 
 ```mermaid
 flowchart TD
