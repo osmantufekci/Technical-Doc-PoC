@@ -158,7 +158,7 @@ Bu bölümde, projemizin eski ana sistemimiz CCB ile nasıl konuştuğunu, adeta
 
 Artık hem modern Siebel akışının hem de eski CCB akışının sözleşme listelerini nasıl getirdiğini biliyoruz. Peki bu listeler elde edildikten sonra ne oluyor? Farklı kaynaklardan gelen bu sözleşmeler kullanıcıya sunulmadan önce nasıl bir düzene sokuluyor?
 
-**Sıradaki Bölüm:** [Sözleşme Ailesi Sıralama ve Normalleştirme](04_sözleşme_ailesi_sıralama_ve_normalleştirme_.md)
+**Sıradaki Bölüm:** [Sözleşme Ailesi Sıralama ve Normalleştirme](04_sozlesme_ailesi_siralama_ve_normallestirme_.md)
 
 ---
 
