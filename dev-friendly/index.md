@@ -30,7 +30,7 @@ flowchart TD
 ## Chapters
 
 1. [Ana Akış ve Yönlendirme
-](01_ana_akış_ve_yönlendirme_.md)
+](dev-friendly/01_ana_akış_ve_yönlendirme_.md)
 2. [Sözleşme Veri Kaynağı Zinciri (Siebel Akışı)
 ](dev-friendly/02_sözleşme_veri_kaynağı_zinciri__siebel_akışı__.md)
 3. [Eski Sistem Sözleşme Akışı (Legacy/CCB)
